@@ -2,8 +2,10 @@
 https://developers.google.com/drive/api/v3/quickstart/python
 
 2. Don't forget to use virtualenv. Activate it:
-`virtualenv --no-site-packages .venv`
-`source .venv/bin/activate`
+```
+virtualenv --no-site-packages .venv
+source .venv/bin/activate
+```
 
 3. Install requirements `pip install requirements.txt`.
 
