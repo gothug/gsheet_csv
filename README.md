@@ -7,7 +7,7 @@ virtualenv --no-site-packages .venv
 source .venv/bin/activate
 ```
 
-3. Install requirements `pip install requirements.txt`.
+3. Install requirements `pip install -r requirements.txt`.
 
 4. Change data on config.py. Your can learn SPREADSHEET_ID from url of the Spreadsheet
 https://developers.google.com/sheets/api/guides/concepts#sheet_id
