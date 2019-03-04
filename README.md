@@ -16,9 +16,9 @@ https://developers.google.com/sheets/api/guides/concepts#sheet_id
 
 Import all csv rows:
 ```
-python import_csv.py path_to_your_csv
+python import_csv.py path_to_your_csv first
 ```
 Import csv rows except the first line:
 ```
-python import_csv.py path_to_your_csv cut
+python import_csv.py path_to_your_csv
 ```
